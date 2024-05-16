@@ -1,0 +1,54 @@
+
+
+Sprovider
+
+Login,
+Train and Test Data Sets,
+View Trained and Tested Accuracy in Bar Chart,
+View Trained and Tested Accuracy Results,
+View Predicted Crime Type Details,
+Find Crime Type Ratio on Data Sets,
+Download Trained Data Sets,
+View Crime Type Ratio Results,
+View All Remote Users
+
+
+Remote User
+
+REGISTER AND LOGIN,
+POST CRIME DATA SETS,
+PREDICT CRIME TYPE,
+VIEW YOUR PROFILE 
+
+
+
+Members
+
+
+INCIDENT_NUMBER
+OFFENSE_CODE
+OFFENSE_CODE_GROUP
+OFFENSE_DESCRIPTION
+DISTRICT
+REPORTING_AREA
+OCCURRED_ON_DATE
+YEAR
+MONTH
+DAY_OF_WEEK
+Hour
+UCR_PART
+STREET
+Lat
+Long1
+Location
+CTYPE
+
+
+Algorithms Used
+
+with Naive Bayes,SVM,
+Logistic Regression,
+Decision Tree Classifier,
+Random Forest Classifier,
+SGD Classifier,
+KNeighborsClassifier
